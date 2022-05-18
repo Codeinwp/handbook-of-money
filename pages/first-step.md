@@ -1,7 +1,8 @@
 # Your first steps
 
-Here are some good resources to learn as a begginer:
+![](../memes/money-work.jpeg)
 
+Here are some good resources to learn as a  (beware of the rabbit hole):
 
 | Info | Duration |
 | --- | :--: |
