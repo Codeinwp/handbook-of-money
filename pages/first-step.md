@@ -2,7 +2,7 @@
 
 ![](../memes/money-work.jpeg)
 
-Here are some good resources to learn as a  (beware of the rabbit hole):
+Here are some good resources to learn as a begginer (beware of the rabbit hole):
 
 | Info | Duration |
 | --- | :--: |
