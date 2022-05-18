@@ -15,3 +15,13 @@ Here are some good resources to learn as a begginer (beware of the rabbit hole):
 | [r/povertyfinance](https://www.reddit.com/r/povertyfinance/) to save a buck | - |
 | [r/FinancialPlanning](https://www.reddit.com/r/FinancialPlanning/top/?t=month) with more people in troubles | - |
 | [r/leanfire](https://www.reddit.com/r/leanfire/) when you are 100% on the money making | - |
+
+## Apps to keep track on the money.
+
+| Name | Cost |
+| -- | :--: |
+| [Google Sheets](https://www.google.com/sheets/about/) | free |
+| [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) | $69.99/year |
+| [Mint](https://mint.intuit.com)  | Fremium |
+| [Goodbudget](https://mint.intuit.com) | Fremium |
+
