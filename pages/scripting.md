@@ -4,9 +4,9 @@ Some of you might not be satisfied with only using Excel to do some calculations
 
 Enter R. Read the [presention](https://www.researchgate.net/publication/302956522_R_in_Finance_Introduction_to_R_and_Its_Applications_in_Finance).
 
-See how simulations looks: [1](https://www.daytrading.com/monte-carlo-simulations-options-pricing-models-r), [2](https://www.youtube.com/watch?v=krdgh0e2t6g)
+See how simulations looks: [1](https://www.daytrading.com/monte-carlo-simulations-options-pricing-models-r), [2](https://www.youtube.com/watch?v=krdgh0e2t6g), [3](https://www.youtube.com/watch?v=hKDalfhDawA).
 
-Learning a niche programming language might be too much. But hey, you can land a job [1](https://www.freelancer.com/jobs/r-programming-language/), [2](https://www.upwork.com/freelance-jobs/r/), [3](https://www.youtube.com/watch?v=hKDalfhDawA).
+Learning a niche programming language might be too much. But hey, you can land a job [1](https://www.freelancer.com/jobs/r-programming-language/), [2](https://www.upwork.com/freelance-jobs/r/)
 
 ## Learn R
 
