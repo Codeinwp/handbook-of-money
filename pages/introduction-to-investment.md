@@ -17,4 +17,4 @@ That asset can also be **you** or a tool.
 
 ### If you write a lot of email writing
 
-Tools like templete snippets, hotkeys, Grammerly, issue search can help a lot in time saving. Time to find tool that minimize the manual work.
+Tools like template snippets, hotkeys, Grammarly, and issue search can help a lot in time-saving. Time to find tools that minimize the manual work.
