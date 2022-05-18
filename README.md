@@ -13,14 +13,14 @@ Tips &amp; Trick - resources for you in which you can learn to lose your hard wo
 
 #### How to send resources
 
-- Via PR in Github. You can add images in `images` folder. Text file files, pdf, etc in the `resources` folder. Articles in `pages` folder in a [Markdown](https://www.markdownguide.org/getting-started/) file.
+- Via PR in Github. You can add images in `images` folder. Text files, pdf, etc in the `resources` folder. Articles in `pages` folder in a [Markdown](https://www.markdownguide.org/getting-started/) file.
 - Directly to @Soare-Robert-Daniel via Slack/Email.
 
 #### Tools for articles
 
 - Visual Studio Code with this [extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - You can create a file directly in Github.
-- Any makrdown editor.
+- Any markdown editor.
 
 ## Contributors
 
