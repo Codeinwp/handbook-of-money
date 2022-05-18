@@ -2,6 +2,9 @@
 
 You are here because you want to learn about money. Why? Because they can solve almost all your problems, and they are hard to make.
 
+> “Money, if it does not bring you happiness, will at least help you be miserable in comfort.”
+– Helen Gurley Brown
+
 Even I do not know much about money. But we can explore it together.
 
 ![I guide others](memes/../../memes/i-guide-others.jpeg)
@@ -30,5 +33,5 @@ You are thinking that investment is for people who know a lot about the domains.
 So why a guide about making money when is so simple? Well, you have to learn to avoid scams. Many people will try to trick you, and you will need the knowledge to see through their lies. Right now (May 2022), a crypto campaign is still going on, attracting celebrities and promising a lot. [Learn more about their type of scams.](https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-scams-fraud/)
 
 The biggest enemy that blocks you from making much money is your judgment. A good judgment in which place to put your money makes all the difference.
-
+In this handbook, you will learn on how to train your judgement.
 ![you are your own enemy](../memes/enemy.webp)
