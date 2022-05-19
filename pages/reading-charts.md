@@ -58,3 +58,6 @@ Your rabbit hole awaits you:
 - [Over 60 New York Times Graphs for Students to Analyze](https://www.nytimes.com/2020/06/10/learning/over-60-new-york-times-graphs-for-students-to-analyze.html)
 - [The Only Candlestick Patterns Trading Video You Will Ever Need... (Beginner To Advanced)](https://www.youtube.com/watch?v=hEUALimWs7E)
 
+### Platforms
+
+Choosing a platform depends a lot on the law & taxes of your country. You need to pay attention to the commissions of each forum. Beware of their marketing; they are very aggressive. It is better to ask some friends who use those platforms (ask them about additional contracts and how they cash out the money) to understand better how it will work for you.
