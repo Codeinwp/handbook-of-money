@@ -13,6 +13,10 @@ But first, we need to learn when news is an ad or sponsored content:
 
 ![smart ad](../memes/smart-ad.png)
 
+DON'T be obsessive with public information and don't think you will find a reliable way to build a formula. Remember, significant events happen behind the curtain.
+
+Don't stress yourself when investing; don't be obsessive with the numbers.
+
 The rabbit hole:
 
 - [The intelligent investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=sr_1_4?crid=2GE3X6RT8XZUO&keywords=the+inteligent+investor&qid=1652953715&sprefix=the+intelligent+investor%2Caps%2C190&sr=8-4) by Benjamin Graham
