@@ -23,7 +23,13 @@ To grow your salary, you need to increase your labor value. To open a business, 
 
 ![investing](../memes/investing.webp)
 
-With investment, you are playing a long-term game. You don't have to do much about money. Money increases its value by simply moving from pocket to pocket. BUT you need to be prepared when you cash them out (7 - 3o years).
+Belive it or not, but world economy is big *CASINO*. Some lose, some wins, some go bankrupt, some become the richest persons in the world (see [Elon Musk](https://www.cbsnews.com/news/elon-musk-300-billion-net-worth/)). Take a look at [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
+
+YOU CAN INVEST IN ANYTHING: you, your family, your pet, stocks, bonds, oil, art, tech, education, etc.
+
+![maurice](../memes/maurice.png)
+
+With investment in things like bonds, stocks, index funds, you are playing a long-term game. You don't have to do much about money. Money increases its value by simply moving from pocket to pocket. BUT you need to be prepared when you cash them out (7 - 3o years).
 
 You are thinking that investment is for people who know a lot about the domains. But in reality, nobody knows how to invest. Even a monkey can a do a good investment. [Learn more about smart monkeys.](https://www.wsj.com/articles/SB991681622136214659)
 
@@ -34,4 +40,9 @@ So why a guide about making money when is so simple? Well, you have to learn to 
 
 The biggest enemy that blocks you from making much money is your judgment. A good judgment in which place to put your money makes all the difference.
 In this handbook, you will learn on how to train your judgement.
+
 ![you are your own enemy](../memes/enemy.webp)
+
+## IS TIME TO LEARN TO MAKE MORE MONEY
+
+![go get money](../memes/go-get-money.jpeg)
