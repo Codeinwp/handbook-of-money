@@ -53,4 +53,4 @@ Habbits have an hidden cost.
 | Greed | Not spending money tool that can save money and boost productivity or healthcare |
 | Ignorance | Ignore your other problems |
 
-Rembember that you can invest in yourself (learn a skill, new language, etc). 1 200$ can make a difference.
+Remember that you can invest in yourself (learn a skill, new language, etc). 1 200$ can make a difference.
