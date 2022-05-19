@@ -40,6 +40,8 @@ If you think Nature is senseless, think twice. You can look at those clips to se
 - [Frozen Worlds](https://www.youtube.com/watch?v=cTQ3Ko9ZKg8)
 - [From Deserts to Grasslands](https://www.youtube.com/watch?v=XmtXC_n6X6Q)
 
+One good tip is to note down all the important decisions in your life. Put a date and how you felt about it. It will help you to track your progress.
+
 ### The Endgame
 
 After investing in yourself and your tools, you will most likely be on a cash surplus. At this point, you have acquired a decent life and a good enough future.
