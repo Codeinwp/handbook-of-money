@@ -33,7 +33,7 @@ It looks like a really small sum, but it is a little over one month's salary. So
 
 What about the 4000$ in savings? Well, you can not put all your money in investment. You will need it when urgency happens: you are fired, a medical problem appears, and your phone has stopped working.
 
-If your savings are really big, then you can try to invest them.
+If your savings are really big, then you can try to invest them in stocks, index funds, etc.
 
 ### Saving
 
