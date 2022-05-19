@@ -2,12 +2,11 @@
 
 > You can not win a war be living in ignorance - Robert
 
-So you decided that you want to put some money in stocks, index funds, crypto, comodities, etc. And a natural question is: Which is the best now, or in 5 yeads, or in 20 years?
+So you decided that you want to put some money in stocks, index funds, crypto, commodities, etc. And a natural question is: Which is the best now, in 5 years, or 20 years?
 
-If you want to know that, you must up-to-date withe news (like you do with Twitter, Twitch, Instagram, Reddit drama).
+If you want to know that, you must be up-to-date with news (like you do with Twitter, Twitch, Instagram, and Reddit drama).
 
-But first, we need to learn when a news is an ad or sponsored content:
-
+But first, we need to learn when news is an ad or sponsored content:
 - [How to Analyze Advertisements](https://www.youtube.com/watch?v=J6a26ndMGXM)
 - [Sponsored Content](https://www.youtube.com/watch?v=f0lgW_mqOy8)
 - [Sponsored Content: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=sIi_QS1tdFM)
