@@ -61,3 +61,5 @@ Your rabbit hole awaits you:
 ### Platforms
 
 Choosing a platform depends a lot on the law & taxes of your country. You need to pay attention to the commissions of each forum. Beware of their marketing; they are very aggressive. It is better to ask some friends who use those platforms (ask them about additional contracts and how they cash out the money) to understand better how it will work for you.
+
+### [Next | Unlimited power](scripting.md)

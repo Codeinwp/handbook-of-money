@@ -56,3 +56,5 @@ Some piece of knowledge from @ineagu
 >Every investment has a risk, the higher the return, the higher the risk.  
 >If you want to have an "edge", which means to earn more, with a lower risk you need to bring something to the table.  
 >For e.g I am hoping for more return by investing in a wordpress plugin, because we do have the know-how and we'll put the work to get better than average results.  
+
+### [Next | True Power](information-is-power.md)

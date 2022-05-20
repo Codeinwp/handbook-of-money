@@ -46,3 +46,5 @@ In this handbook, you will learn on how to train your judgement.
 ## IS TIME TO LEARN TO MAKE MORE MONEY
 
 ![go get money](../memes/go-get-money.jpeg)
+
+### [Next | Baby steps](first-step.md)

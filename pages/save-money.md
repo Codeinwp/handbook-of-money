@@ -64,3 +64,5 @@ And the best way to do it is with a list:
 One problem with this is that you will hate when you see how carelessly you spend the money.
 
 ![](../memes/spend-money.jpeg)
+
+### [Next | Spend the money](introduction-to-investment.md)

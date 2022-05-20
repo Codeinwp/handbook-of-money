@@ -96,3 +96,5 @@ by James Clear
 Podcasts recommendation:
 
 - [Berkshire Hathaway Annual Shareholder Meetings](https://podcasts.apple.com/ro/podcast/berkshire-hathaway-annual-shareholder-meetings-since/id1445276006)  (here is also a [video](https://www.cnbc.com/video/2022/05/01/watch-warren-buffett-and-charlie-munger-preside-over-full-berkshire-hathaway-annual-meeting.html) from the latest one April 2022.)
+
+### [Next | Investor's best friend](reading-charts.md)
