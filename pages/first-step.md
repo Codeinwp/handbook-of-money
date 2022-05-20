@@ -4,6 +4,17 @@
 
 Here are some good resources to learn as a begginer (beware of the rabbit hole):
 
+Pump your interest with those movies:
+
+- [The Wolf of Wall Street](https://www.imdb.com/title/tt0993846/)
+- [The Big Short](https://www.imdb.com/title/tt1596363/)
+- [Wall Steet](https://www.imdb.com/title/tt0094291/)
+- [Wall Street: Money Never Sleeps](https://www.imdb.com/title/tt1027718/)
+- [This Giant Beast That is the Global Economy](https://www.imdb.com/title/tt8450534/)
+- [The Housing Bubble](https://www.imdb.com/title/tt2448130/)
+- [The Wall Street Code](https://topdocumentaryfilms.com/wall-street-code/)
+- [Money, Power and Wall Street](https://topdocumentaryfilms.com/money-power-wall-street/)
+
 | Info | Duration |
 | --- | :--: |
 | [Crash Course](https://www.youtube.com/watch?v=3ez10ADR_gM&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ) for basic economy. | Long |
