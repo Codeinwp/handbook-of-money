@@ -60,6 +60,8 @@ Can open my world to you.
 
 That's right; words make our world spin. Everything is built on the ideas, and those who understand its power are those to whom the world belongs.
 
+It is hard to tell your friends about your ideas when you miss the right words. Think about that math professor who tried many times to explain an [integral](https://en.wikipedia.org/wiki/Integral), and he has failed many times. The world of mathematics is brutal to explain with common words; it takes much talent to initiate someone into this world.
+
 The book [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) highlight the powerful idea behind the words of a language. Read more about [Newspeak](https://en.wikipedia.org/wiki/Newspeak).
 
 ![orwell newspeak](../memes/orwell.webp)
