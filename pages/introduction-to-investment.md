@@ -62,4 +62,12 @@ Internet wisdom
 Buy low, sell high.
 ```
 
+## The Lake And The River
+
+Your sign is the Lake if you like to invest money in a low manner. You usually think a lot about what to do. You think about the risk and how much you can take. You don't like things that move too fast. You want some time to think about it. [Huhh?](https://www.msn.com/en-us/money/savingandinvesting/worried-about-the-stock-market-try-warren-buffetts-investing-strategy/ar-AAXvSkw)
+
+Your sign is the River if you like to see money flow. Risk is a part of your personality; it defines you. You want money now. You want speed. Waiting for it is suffering. Time is money. [Huhh?](https://www.investopedia.com/articles/trading/05/011705.asp)
+
+
+
 ### [Next | True Power](information-is-power.md)
