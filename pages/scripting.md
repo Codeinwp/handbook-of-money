@@ -1,5 +1,7 @@
 # Going to the next level
 
+![the sky by galileo](../memes/galileo.jpeg)
+
 Some of you might not be satisfied with only using Excel to do some calculations. You want to go big on scenery simulations. You want professional tools. And FREE.
 
 Enter R. Read the [presention](https://www.researchgate.net/publication/302956522_R_in_Finance_Introduction_to_R_and_Its_Applications_in_Finance).
@@ -22,7 +24,7 @@ First start with [tutorial](http://r-tutorial.nl) then [this](https://www.youtub
 
 Start [here](https://julialang.org/learning/tutorials/). Get a [taste](https://questdb.io/tutorial/2021/11/22/high-frequency-finance-introduction-julia-lang/). 
 
-### Set-up your game
+### Step-up your game
 
 - [David Weiss: Large Scale Stochastic Simulation Using Julia](https://www.youtube.com/watch?v=aISDERoNuHw&list=PLC0QOsNQS8haEpUOfrpFMOOEQtpZd0NZZ)
 - [Going on a bull run: Accelerating finance](https://www.youtube.com/watch?v=Scv6xUnE6U0)

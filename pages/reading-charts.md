@@ -1,5 +1,7 @@
 # Gambling the money in stocks
 
+![gambling with the boys](../memes/gamble.jpeg)
+
 Maybe you have friends who are intro sport beting, maybe some are into day tradeding (buy low, sell high?), and start asking yourself. Do they make money?
 
 The majority of your friends will likely be in the negative side of the gains, but you will have that special friend that makes a lot of money and brags about it. Naturally you are curios about it. You might be tempted to try.
@@ -10,7 +12,7 @@ On the other hands, Stocks are the true battleground for money. Stocks can make 
 
 This battleground is very hard for the biggeners. You will need a lot a knowledge to understand the risk and evaluate it.
 
-If you want to know if a company is good to invest some money in their stock, you will most likely be in this situation:
+If you want to know if a company is good to invest in their stock, you will most likely be in this situation:
 
 ---
 

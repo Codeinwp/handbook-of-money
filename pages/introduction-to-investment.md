@@ -55,6 +55,11 @@ Some piece of knowledge from @ineagu
 >A rule that I always knew and it helped me is that there is no free lunch. There is no way that you do nothing that your money just grows by investing in whatever people are promoting nowadays.  
 >Every investment has a risk, the higher the return, the higher the risk.  
 >If you want to have an "edge", which means to earn more, with a lower risk you need to bring something to the table.  
->For e.g I am hoping for more return by investing in a wordpress plugin, because we do have the know-how and we'll put the work to get better than average results.  
+>For e.g I am hoping for more return by investing in a wordpress plugin, because we do have the know-how and we'll put the work to get better than average results. 
+
+Internet wisdom
+```
+Buy low, sell high.
+```
 
 ### [Next | True Power](information-is-power.md)
