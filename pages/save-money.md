@@ -65,4 +65,34 @@ One problem with this is that you will hate when you see how carelessly you spen
 
 ![](../memes/spend-money.jpeg)
 
+#### How other people see this side
+
+```
+I initially skipped this because I pretty much never think about saving in a way that most of the people would do, however I do have some principles.
+
+I don't get in debt and I like to leave below my means, I always found it easier to think on how I can increase my earnings, in order to save more, rather than reduce my spending.
+
+I also like to in a way artificially lower my monthly income to avoid spending too much, like I worked a couple of years basically for equity vs salary.
+
+I think that while you are young there are simply lots of opportunities on the investment side, investing in yourself mostly so you can generate more income, rather than spending time thinking on how you can save.
+
+    - Ionut
+```
+
+```
+Although saving 20% of the monthly income is recommended, sometimes I succeed, and sometimes I save only 10% (any amount is better than nothing) for various reasons and unexpected expenses that arise (someone hits your car and flees the scene of the accident - you have to repair it yourself; or some checks related to health, etc.).
+
+Thinking that inflation will erode my money, every month, from the amount I decide to save, half I put in the savings account. For the other half, I try to invest in stocks (if the amount is not enough to cover what I want to purchase, I deposit the money anyway and buy when I have collected the amount I need).
+Another good practice is to have a reserve account were to add 2-3 salaries for emergencies.
+
+    - Madalin
+```
+
+```
+I save continuously because the things I like are very cheap: Pepsi twist, Lay's chips. Or **free**(digital pirate wink).
+
+    - Robert
+```
+
+
 ### [Next | Spend the money](introduction-to-investment.md)
