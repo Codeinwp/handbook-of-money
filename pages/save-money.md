@@ -96,6 +96,9 @@ I save continuously because the things I like are very cheap: Pepsi twist, Lay's
     - Robert
 ```
 
+<<<<<<< HEAD
 ![save money make money](../memes/save-money-toy-story.jpeg)
+=======
+>>>>>>> 737d7c8cf1f0d977824021bac953e5e2bf91667f
 
 ### [Next | Spend the money](introduction-to-investment.md)
