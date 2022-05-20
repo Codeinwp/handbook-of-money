@@ -49,3 +49,10 @@ After investing in yourself and your tools, you will most likely be on a cash su
 You can stop here and put the surplus into saving that keep up with the inflation. This is mostly what the majority do. **You have reached the endgame.**
 
 At the endgame, you can make big decisions that can radically change your life in 7-30 years. You can save and live your life as it is or gamble them for higher risk (for a darker or brighter future).
+
+Some piece of knowledge from @ineagu
+
+>A rule that I always knew and it helped me is that there is no free lunch. There is no way that you do nothing that your money just grows by investing in whatever people are promoting nowadays.  
+>Every investment has a risk, the higher the return, the higher the risk.  
+>If you want to have an "edge", which means to earn more, with a lower risk you need to bring something to the table.  
+>For e.g I am hoping for more return by investing in a wordpress plugin, because we do have the know-how and we'll put the work to get better than average results.  
