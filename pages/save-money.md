@@ -67,6 +67,18 @@ One problem with this is that you will hate when you see how carelessly you spen
 
 ![](../memes/spend-money.jpeg)
 
+#### The two sided coin
+
+1. Save money by reducing your expenses.
+2. Save money by making more money.
+
+```
+Reader: Why not both?
+Author: Sounds good, doesn't work.
+```
+
+Very few people can roll out money and live very modest all their life.
+
 #### How other people see this side
 
 ```
@@ -96,9 +108,6 @@ I save continuously because the things I like are very cheap: Pepsi twist, Lay's
     - Robert
 ```
 
-<<<<<<< HEAD
 ![save money make money](../memes/save-money-toy-story.jpeg)
-=======
->>>>>>> 737d7c8cf1f0d977824021bac953e5e2bf91667f
 
 ### [Next | Spend the money](introduction-to-investment.md)
