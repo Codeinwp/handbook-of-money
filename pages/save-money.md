@@ -25,9 +25,9 @@ And now for monthly fixed (or almost fixed) expenses.
 
 So, from your salary, you will remain with 645$. With those, you will spend them on food and other consumables. 
 
-A good rule is to save 20% from your salary, in this case, 200 $ . You will remain with 445 $ .
+A good rule is to save 20% from your salary, in this case, 200. You will remain with 445.
 
-From that 20%, half can go to a saving account, so 100 $ . The other 100 $ can to investment. With a salary of 1000 $ , based on this formula, you will invest 1 200 $ per year.
+From that 20%, half can go to a saving account, so 100. The other 100 can to investment. With a salary of 1000 , based on this formula, you will invest 1 200 per year.
 
 It looks like a really small sum, but it is a little over one month's salary. So one salary will go to investment every year.
 
