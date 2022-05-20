@@ -17,3 +17,13 @@ First start with [tutorial](http://r-tutorial.nl) then [this](https://www.youtub
 - [Analyzing Financial Data and Implementing Financial Models Using R](https://www.amazon.com/Analyzing-Financial-Implementing-Springer-Economics-ebook/dp/B00VR5CIO8)
 - [Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis](https://www.amazon.com/Reproducible-Finance-Portfolio-Analysis-Chapman/dp/1138484032)
 - [Analyzing Financial Data and Implementing Financial Models Using R](https://www.amazon.com/Analyzing-Financial-Implementing-Springer-Economics/dp/3030641546?Adv-Srch-Books-Submit.x=35&Adv-Srch-Books-Submit.y=18&field-dateop=After&field-dateyear=2020&unfiltered=1)
+
+## Learn Julia
+
+Start [here](https://julialang.org/learning/tutorials/). Get a [taste](https://questdb.io/tutorial/2021/11/22/high-frequency-finance-introduction-julia-lang/). 
+
+### Set-up your game
+
+- [David Weiss: Large Scale Stochastic Simulation Using Julia](https://www.youtube.com/watch?v=aISDERoNuHw&list=PLC0QOsNQS8haEpUOfrpFMOOEQtpZd0NZZ)
+- [Going on a bull run: Accelerating finance](https://www.youtube.com/watch?v=Scv6xUnE6U0)
+- [Interactive financial modeling](https://www.youtube.com/watch?v=h1BGy6CV1co)
