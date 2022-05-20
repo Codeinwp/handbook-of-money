@@ -17,8 +17,40 @@ DON'T be obsessive with public information and don't think you will find a relia
 
 Don't stress yourself when investing; don't be obsessive with the numbers.
 
+### Don't breake the bubble
+
+```
+A powerful idea here when we think about sponsored content and news is the incentives. Is there anything the writer/advertiser might win if you do as they say?
+
+Like a real estate developer telling you to buy an apartment from him because it is the best time?   
+
+    - Ionut
+ ```
+
+![bubble](../memes/bubble.jpeg)
+
+Have you seen a bunch of news that keep spaming the idea to invest in something that **MIGHT** give you some value at the **RIGHT** time?
+
+#### Enters ECONOMIC BUBBLE in the scene.
+
+```
+An economic bubble is a situation in which asset prices are much higher than the underlying fundamentals can reasonably justify. Bubbles are sometimes caused by unlikely and overly optimistic projections about the future. They could also be described as prices which strongly exceed the asset's intrinsic value.
+
+They are sometimes referred to as speculative bubbles, financial bubbles, or speculative mania.
+
+In the early stages of a bubble, many investors do not notice the bubble for what it is. People notice the prices are going up and often think it is justified. Therefore bubbles are often conclusively identified only in retrospect, after the bubble has already popped and prices have crashed.
+
+    - Wikipedia
+```
+
+Bubbles are a big moment; some make tons of money, and some lose their lives. A bubble is a KINGMAKER and a KINGSLAYER at the same time—the double edge sword.
+
+---
+
 The rabbit hole:
 
+- [How to invest during a market bubble](https://financialpost.com/investing/how-to-invest-during-a-market-bubble)
+- [Blowing Bubbles: What Is A Stock Market Bubble?](https://www.forbes.com/advisor/investing/stock-market-bubble/)
 - [The intelligent investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=sr_1_4?crid=2GE3X6RT8XZUO&keywords=the+inteligent+investor&qid=1652953715&sprefix=the+intelligent+investor%2Caps%2C190&sr=8-4) by Benjamin Graham
 - [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/141-9089874-7772166?psc=1) by Alice Schroeder
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/The-Power-of-Habit-Charles-Duhigg-audiobook/dp/B007EJSMC8) by Charles Duhigg
