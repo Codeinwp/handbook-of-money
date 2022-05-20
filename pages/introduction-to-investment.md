@@ -68,6 +68,18 @@ Your sign is the Lake if you like to invest money in a low manner. You usually t
 
 Your sign is the River if you like to see money flow. Risk is a part of your personality; it defines you. You want money now. You want speed. Waiting for it is suffering. Time is money. [Huhh?](https://www.investopedia.com/articles/trading/05/011705.asp)
 
+## Apes together strong
 
+![strong](../memes/strong.jpeg)
+
+Welcome to world of the [Meme Economy](https://www.theregreview.org/2021/12/22/catalano-regulatory-lessons-meme-economy/)
+
+The hell with the economic knowledge. Enter into the stock market like you do it in the casino. 
+
+![yolo](../memes/yolo.webp)
+
+Thorugh pandemic, a new type of investment strategy, has gained traction: Meme Economy. People worldwide are trying to manipulate the market through memes and hype on the internet. Treating the world economy like their personal strip club.
+
+[And having a crusade against financial giants.](https://www.gemini.com/cryptopedia/what-is-a-short-squeeze-r-wallstreetbets-gme)
 
 ### [Next | True Power](information-is-power.md)
