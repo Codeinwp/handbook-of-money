@@ -62,6 +62,8 @@ That's right; words make our world spin. Everything is built on the ideas, and t
 
 The book [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) highlight the powerful idea behind the words of a language. Read more about [Newspeak](https://en.wikipedia.org/wiki/Newspeak).
 
+![orwell newspeak](../memes/orwell.webp)
+
 **Don't forget to read fantasy, poetry, or si-fi books; they are good at explaining new ideas using the current words in the language.**
 
 ---
