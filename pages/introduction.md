@@ -25,7 +25,7 @@ To grow your salary, you need to increase your labor value. To open a business, 
 
 Belive it or not, but world economy is big *CASINO*. Some lose, some wins, some go bankrupt, some become the richest persons in the world (see [Elon Musk](https://www.cbsnews.com/news/elon-musk-300-billion-net-worth/)). Take a look at [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 
-YOU CAN INVEST IN ANYTHING: you, your family, your pet, stocks, bonds, oil, art, tech, education, etc.
+YOU CAN INVEST IN ANYTHING: you, your family, your pet, stocks, bonds, oil, art, tech, education, etc. [You can even bet your a money gains others betting](https://www.investopedia.com/terms/s/shortselling.asp).
 
 ![maurice](../memes/maurice.png)
 
