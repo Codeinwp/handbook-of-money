@@ -53,4 +53,14 @@ Habbits have an hidden cost.
 | Greed | Not spending money tool that can save money and boost productivity or healthcare |
 | Ignorance | Ignore your other problems |
 
-Remember that you can invest in yourself (learn a skill, new language, etc). 1 200$ can make a difference.
+Remember that you can invest in yourself (learn a skill, a new language, etc). 1 200$ can make a difference.
+
+And the best way to do it is with a list:
+
+1. Note down what you want to buy and how much it cost
+2. Note a period in which you can think you can accumulate that sum.
+3. Note every unexpected event (medical bills, gifts)
+   
+One problem with this is that you will hate when you see how carelessly you spend the money.
+
+![](../memes/spend-money.jpeg)

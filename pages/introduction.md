@@ -29,7 +29,7 @@ YOU CAN INVEST IN ANYTHING: you, your family, your pet, stocks, bonds, oil, art,
 
 ![maurice](../memes/maurice.png)
 
-With investment in things like bonds, stocks, index funds, you are playing a long-term game. You don't have to do much about money. Money increases its value by simply moving from pocket to pocket. BUT you need to be prepared when you cash them out (7 - 3o years).
+With investment in things like bonds, stocks, index funds, you are playing a long-term game. You don't have to do much about money. Money increases its value by simply moving from pocket to pocket. BUT you need to be prepared when you cash them out (7 - 30 years).
 
 You are thinking that investment is for people who know a lot about the domains. But in reality, nobody knows how to invest. Even a monkey can a do a good investment. [Learn more about smart monkeys.](https://www.wsj.com/articles/SB991681622136214659)
 
