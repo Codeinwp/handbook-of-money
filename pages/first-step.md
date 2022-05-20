@@ -2,8 +2,6 @@
 
 ![](../memes/money-work.jpeg)
 
-Here are some good resources to learn as a begginer (beware of the rabbit hole):
-
 Pump your interest with those movies:
 
 - [The Wolf of Wall Street](https://www.imdb.com/title/tt0993846/)
@@ -14,6 +12,8 @@ Pump your interest with those movies:
 - [The Housing Bubble](https://www.imdb.com/title/tt2448130/)
 - [The Wall Street Code](https://topdocumentaryfilms.com/wall-street-code/)
 - [Money, Power and Wall Street](https://topdocumentaryfilms.com/money-power-wall-street/)
+
+Here are some good resources to learn as a begginer (beware of the rabbit hole):
 
 | Info | Duration |
 | --- | :--: |
