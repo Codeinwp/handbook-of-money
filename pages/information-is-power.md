@@ -48,7 +48,7 @@ Bubbles are a big moment; some make tons of money, and some lose their lives. A 
 ## Only the language can express your ideas.
 
 ```
-Words are my eyes.
+Words are the eyes.
 The eyes to my world.
 The world of my beautiful mind.
 Twisted and complex.
