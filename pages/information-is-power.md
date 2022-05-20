@@ -17,6 +17,8 @@ DON'T be obsessive with public information and don't think you will find a relia
 
 Don't stress yourself when investing; don't be obsessive with the numbers.
 
+>There is pretty much no way as a random person you know when the USD would go up or down, when the market would go up or down, I think you need to be humble and realize that without knowing more than most people, you can't have better results than most of the people. - Ionut
+
 ### Don't breake the bubble
 
 ```
